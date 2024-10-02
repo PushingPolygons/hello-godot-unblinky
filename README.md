@@ -1,5 +1,6 @@
 # Hello Godot
 The "hello world" project is a great way to get one's bearings in a new programming environment.
+Woot?
 
 ## Instructions
 The project instructions begin here - [Hello Godot](https://gitlab.com/kirkja-leikjahonnunar/knowhow/-/tree/main/Tinker/Drills/Booting/3.%20Hello%20Godot/).
